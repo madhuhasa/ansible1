@@ -1,5 +1,0 @@
----
--name: Check java is installed or not 
- shell: command java -version 
-   register: check_java
- 
